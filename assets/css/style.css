@@ -1,0 +1,15 @@
+body {
+    background-image: url(../images/what-the-hex.png);
+}
+
+#bgColor {
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #dee2e6;
+}
+
+
+#pBgColor {
+    background-color: white;
+}
